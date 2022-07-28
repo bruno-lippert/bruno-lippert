@@ -1,4 +1,7 @@
 ## Bem-vindo(a) ao meu perfil 😁
+Atualmente estou focado no Desenvolvimento front-end
+<br>
+Procuro me tornar um desenvolvedor FullStack
 
  <div>
    <a href="https://github.com/bruno-lippert">
